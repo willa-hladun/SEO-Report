@@ -1,0 +1,40 @@
+https://www.limecrime.com/ 
+(Online Cosmetic Company)
+
+Pros:
+
+Cq (Quality): Pages on Lime Crime’s website are written to attract consumers to their products, and I think they do so very effectively. Their use of descriptive words and stand-out imagery is attractive to anyone looking to purchase a unique product, and the content on the website is abundant with variety.    
+
+Cv (Vertical): The Lime Crime website hosts many eye-catching photos that promote their products and a scrolling bar to view their Instagram photos, featuring customers or sponsored make up artists in action. This content makes the site more visually appealing.
+
+Am (Mobile): Lime Crime has done well with formatting their webpage to fit a phone. The homepage feels a bit long to scroll down through but it fits the screen well enough and the site doesn’t operate any slower because of it. 
+
+Sr (Reputation) and Ss (Shares): Lime Crime is very active on social media, and this is likely where most of their traffic comes from. They send out Public Relations packages to well recognized and trusted makeup artists, who then use the products and promote them by tagging them in pictures and videos on various social media platforms. Any new releases are also announced on social media in a slow buildup of promotional content, which creates buzz about the product. 
+
+
+Cons:
+
+As (Speed): Lime Crime’s website has always been slow to load, likely due to the sheer amount of content on each page, graphics and styling. However, due to a substantial amount of new releases, limited edition products, and special sales, accessing individual pages is especially time consuming, or the page fails to load at all. 
+
+Ah (HTTPS): The site uses HTTPS for customers’ security on the sight. This is especially important for websites that take personal information from customers such as addresses and credit card information. There was a supposed security breach on this website in 2015, in which hackers gained access to some financial information of customers. The website was supposedly using an expired SSL certificate, which compromised the security of the connection between the web server and a browser. They seem to have patched everything up, but security breaches are not quick to be forgotten and greatly diminish trust of customers. 
+
+Business Model Canvas
+
+Key Partners: Urban Outfitters, Hudson’s Bay, ASOS, other distributors
+
+Key Activities: Creating cosmetic formulas, testing formulas, marketing products, selling products
+
+Key Resources: High quality vegan ingredients, a functional website, promotors, social media, laboratory and factory
+
+Value Proposition: Affordable, high quality cosmetics that are cruelty free and vegan (not tested on animals and don’t use animal byproducts), highly pigmented, and unique in shade range and formula. 
+
+Relationships: Personal when at events and online through customer service
+
+Channels: Booth sales at large cosmetic events such as IMATS, sales at specific stores that carry their range, website
+
+Customer Segment: People who use makeup and want something unique, primarily teenagers and young adults, and professional makeup artists 
+
+Cost Structure: Ingredients, factory and testing facilities, marketing and promotion, salaries for employees and sponsored make up artists, new campaigns, booths at special events
+
+Revenue Streams: Online and in person sales
+
