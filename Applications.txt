@@ -1,0 +1,20 @@
+What runs https://www.limecrime.com/ using https://www.whatruns.com and other websites when definitions were not clear. 
+
+Facebook Widget: Allows lime crime and customers to interact with Facebook on the website, such as logging into an account using the information given on Facebook or using Facebook as a way to reach a larger audience by promoting its products as ads on the website with links to their online store.
+
+Ruby on Rails - Website Framework: A software framework that assists web applications in the way of providing a standard to building and using applications. They provide database access, template frameworks, and assist with coding. Ruby on Rails provides default structures for a database, web service, and web pages (https://en.wikipedia.org/wiki/Ruby_on_Rails)
+
+Phusion Passenger - Web Server: Provides support to Ruby on Rails.
+
+Ad Roll and Perfect Audience - Ads: Assist with retargeting old customers and searching for new customers through ad placement and keeping track of user visitation to the site. 
+
+Google Analytics, HotJar, NewRelic, and Facebook Pixel - Analytics: Used to monitor traffic on website, behaviour of customers and customer experience, and the performance of applications used on the website. These are useful when looking to retarget customers.
+
+Decibel Insight - Miscellaneous: Provides insight into behaviour of digital audience, which can be used to increase traffic to your sight and assist in website sales. For example, it can be used to target customers who left items in the online shopping cart in order to encourage them to return to make a purchase. (https://reviews.financesonline.com/p/decibel-insight/)
+
+RackCache: Works with Ruby on Rails as a way to store active data in order to improve application performance. (http://searchstorage.techtarget.com/definition/cache and http://rtomayko.github.io/rack-cache/faq)
+
+Optimizely, Listrak, Pixlee - Marketing: Used to fool around with website algorithms and design to increase functionality of their website. 
+
+Modernizr, jQuery, Async - Javascript Frameworks: Provides a javascript library and additional functions for easy use in the coding of a website, as well as collects information that can be later used to increase performance of the website. 
+
